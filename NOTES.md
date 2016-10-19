@@ -1,3 +1,27 @@
+High Performance Microservices 
+===
+
+## Hardware limits 
+
+What do we do when we want to augment productivity:
+- we can do things faster... until we reach a limit 
+- we put more people on the job... until organization starts to slow down the process
+- we better organize the job... until we reach an optimal organization 
+
+last option:
+"Are we actually doing this job right?"
+
+hardware limitations.
+application organization.
+security
+
+Let's talk about hardware limits.
+
+## Free lunch is over 
+- speed... we've hit a limit on clock speed 
+
+
+
 There are two main benefits WebAssembly provides:
 
 The kind of binary format being considered for WebAssembly can be natively decoded much faster than JavaScript can be parsed (experiments show more than 20× faster). On mobile, large compiled codes can easily take 20–40 seconds just to parse, so native decoding (especially when combined with other techniques like streaming for better-than-gzip compression) is critical to providing a good cold-load user experience.

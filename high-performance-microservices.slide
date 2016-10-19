@@ -1,4 +1,4 @@
- µPerformance 
+ µServices Performance 
 Manchester
 19 Oct 2016
 
@@ -21,14 +21,14 @@ An extended version is available on Medium:
 
 You are encouraged to remix, transform, or build upon the material, providing you give appropriate credit.
 
+* Productivity augmentation strategies
+- work faster
+- put more workers
+- efficient management
+
+* "Are we actually doing it right?"
+
 * The free lunch is over
-
-- in 2005 the Moore Law applied to clock speed had stopped
-- 3GHz CPUs for commercial use
-- 4GHz expected in 2006 was only shipped in 2014 "Devil's Canyon"
-- we should have 20GHz CPUs by now: my machine is running on 2.7GHz
-
-* The CPU
 
 .image assets/35years-CPU.png _ 700
 
@@ -53,14 +53,14 @@ Much of the improvement in performance in the last two decades has come from arc
 * The solution in 3B
 - Better Software (use of multi-core)
 - Better Programming Languages (compiled, concurrent and efficient)
-- Better Developers (mastering of hardware and software)
+- Better Developers (mastering hardware and software)
 
 * Intermezzo: concurrency is not parallelism
 
 * Scaling Computers vs Scaling Applications
 
-- Faster CPUs, more transistors = Scale vertically (more powaaa)
-- Multi Core CPUs = Scale horizontally (orchestration)
+- Faster CPUs, more transistors = Scale vertically
+- Multi Core CPUs = Scale horizontally
 
 * Scaling Microservices
 
