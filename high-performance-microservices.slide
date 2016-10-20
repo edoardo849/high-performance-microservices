@@ -1,4 +1,4 @@
- µServices Performance 
+µServices Performance 
 Manchester
 19 Oct 2016
 
@@ -57,22 +57,15 @@ Much of the improvement in performance in the last two decades has come from arc
 
 * Intermezzo: concurrency is not parallelism
 
-* Scaling Computers vs Scaling Applications
-
-- Faster CPUs, more transistors = Scale vertically
-- Multi Core CPUs = Scale horizontally
-
 * Scaling Microservices
 
-- X-axis: multiple copies of an application behin a load balancer
+- X-axis: multiple copies of an application behind a load balancer
 - Y-axis: splits the application into multiple, different services
 - Z-axis: each server is responsible for only a subset of the data (i.e. customer type)
 
 .image assets/scaling-cube.jpg _ 400
 
-* What is the reason for scaling?
-- Isn't there anything that we can do first?
-- Hope for the best, prepare for the worst: set up an auto-scaling group
+* Optimization as a first-class citizen when scaling
 
 * Everything is a tradeoff
 - Cost of power for vertical scaling

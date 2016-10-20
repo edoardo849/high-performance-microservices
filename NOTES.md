@@ -17,7 +17,7 @@ security
 
 Let's talk about hardware limits.
 
-## Free lunch is over 
+## Free lunch is over  Herb Sutter
 - speed... we've hit a limit on clock speed 
 
 
